@@ -1,0 +1,3 @@
+/tesseract https://grupotesseract.com.br
+/api/* https://jsonplaceholder.typicode.com/:splat 200
+/hello /.netlify/functions/hello-world/helloworld.js 200
